@@ -8,3 +8,9 @@ dungeon_rush
 *.o
 *.gch
 build
+/cmake-build-debug/
+/.idea/DungeonRush.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/.gitignore
