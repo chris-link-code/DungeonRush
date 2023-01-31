@@ -1,8 +1,9 @@
+#include <stdio.h>
 #include "render.h"
 
 #include <SDL.h>
 #include <stdlib.h>
-#include <string.h>
+//#include <string.h>
 
 #include "ai.h"
 #include "game.h"
